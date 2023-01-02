@@ -72,6 +72,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'flutterfire-samples.appspot.com',
     androidClientId: '132381301913-5o1p8r5cr7hbmet7bjtltnk3hiv2eife.apps.googleusercontent.com',
     iosClientId: '132381301913-6ho0d2nv7b9q73ibmtsjq3es09leqbt9.apps.googleusercontent.com',
-    iosBundleId: 'com.souvikbiswas.flutterfireExamples',
+    iosBundleId: 'com.alfreddagenais.mapoterietest1',
   );
 }
